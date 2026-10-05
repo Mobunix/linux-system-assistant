@@ -1,0 +1,18 @@
+[project]
+name = "Linux_system_assistant"
+version = "0.1.0"
+description = "CLI tool for Linux system diognosis and maintenance"
+requires-python = ">=3.10"
+dependencies = [
+    "typer", "psutil", "tabulate", "rich"
+]
+
+[dependency-groups]
+dev = ["ruff", "pytest"]
+
+[project.scripts]
+linux_system_assistant = "Linux_system_assistant.cli:app"
+
+[build-system]
+requires = ["setuptools>=42", "wheel"]
+build-backend = "setuptools.build_meta"

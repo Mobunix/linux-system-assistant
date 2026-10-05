@@ -1,0 +1,4 @@
+typer
+psutil
+tabulate
+rich
