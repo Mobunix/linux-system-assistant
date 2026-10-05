@@ -1,2 +1,0 @@
-[console_scripts]
-linux_system_assistant = Linux_system_assistant.cli:app

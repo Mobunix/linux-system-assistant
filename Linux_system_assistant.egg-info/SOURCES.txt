@@ -1,8 +1,0 @@
-README.md
-pyproject.toml
-Linux_system_assistant.egg-info/PKG-INFO
-Linux_system_assistant.egg-info/SOURCES.txt
-Linux_system_assistant.egg-info/dependency_links.txt
-Linux_system_assistant.egg-info/entry_points.txt
-Linux_system_assistant.egg-info/requires.txt
-Linux_system_assistant.egg-info/top_level.txt
