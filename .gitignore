@@ -3,7 +3,7 @@ __pycache__/
 *.pyc
 .vscode/
 env
-linux_system_assistant.egg-info/
+Linux_system_assistant.egg-info/
 .pytest_cache/
 
 
